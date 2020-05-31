@@ -1,0 +1,19 @@
+{
+    "name": "furious/contact",
+    "description": "this is a testing package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ragib MRB",
+            "email": "ragib.mrb@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Furious\\Contact\\": "src/"
+        }
+    }
+}
